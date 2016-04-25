@@ -1,0 +1,89 @@
+﻿Lillian Lemmer
+(424) 253-6637
+lillian.lynn.lemmer@gmail.com
+http://www.linkedin.com/in/llemmer/
+http://about.lillian.link/
+
+==========
+Experience
+==========
+
+Thinkful, Mentor, Aug 2015-Present
+----------------------------------
+Freelance Programming in Python course mentor. Remote one-on-one teaching sessions.
+
+    * Independent and self-sufficient; created own curriculum atop of the generic Python course in order to tailor students’ learning experience to their goals.
+    * Warm, friendly demeanor; known for being a sweetheart; childish enthusiasm for the joys of learning, teaching, and sharing software engineering.
+    * Curriculum teaches Flask, SQLAlchemy, and friends (Jinja, etc.).
+    * Highly available; wonderful track record of communication.
+
+
+Group Medical Supply, Software Engineer, Aug. 2012-Feb. 2015
+------------------------------------------------------------
+Full time software engineer. Lead developer for all software projects including E-commerce and programming retail automation. Partially remote.
+
+    * Created inventory and retail management software in Python, which standardized data from OpenCart , Amazon , and eBay to a centralized database.
+    * Developed an easy-to-use web interface for my inventory and retail management software with Python and Flask.
+    * Developed software which updated shipping information on respective ecommerce sites; items would be updated as fulfilled through bar-code scanning when sent for delivery.
+    * Created rule-based retail pricing automation based on competitor report metrics.
+    * Programmatically: maintained inventory information, assured data integrity, generated sales and inventory reports.
+    * Created company retail websites. Customized OpenCart installation, e.g., multi-store shared sessions,  backend inventory tools.
+    * Maintained systems: full stack developer and DevOps administrator, maintained and deployed Debian, CentOS, FreeBSD servers.
+
+Academic Arts, IT Manager, 2008-2012
+------------------------------------
+Full time IT project manager and website developer.
+
+    * Developed school's website using Wordpress, maintained website server on a Linux platform
+    * Built scripts in Python to automate network and server administration tasks.
+    * Provided clear documentation with a wiki for my software and the network
+    * Trained replacement staff before leaving project
+    * Worked with school board to address goals in terms of progress, implementation, and requirements
+
+========
+Projects
+========
+
+Hypatia: Began October 2014
+---------------------------
+https://github.com/lillian-lemmer/hypatia
+
+    * 2D action adventure game engine, written in Python
+    * 10,000 downloads a month from PyPi alone
+    * Supports FreeBSD, Linux, Windows, and Mac
+    * Usable by non-programmers, but also boasts clean code and superb docstrings
+    * Thorough wiki, large userbase and web presence
+
+Sakura CMS: Began November 2013
+-------------------------------
+https://github.com/lillian-lemmer/sakura-cms
+
+    * Static site generator, written in Python
+    * Plugin system
+
+Modconf: Began March 2015
+-------------------------
+https://github.com/lillian-lemmer/modconf
+
+    * Command line modem configuration generator, written in Python
+    * Comprehensive usage documentation
+
+Formhandler
+-----------
+https://github.com/lillian-lemmer/formhandler
+
+    * Automate development of web interfaces for Python functions
+
+==================
+Technology Summary
+==================
+
+Languages/Programming: Python, CSS, JavaScript, HTML (W3C-compliant!), XML, Lua, PHP, BASH
+
+Platforms: FreeBSD, Linux (Fedora, openSUSE, CentOS, Debian, Ubuntu), Windows & Windows Server
+
+Databases: PostgreSQL, SQLite, MySQL
+
+Tools & Systems: git, nginx, ezjail-admin, vim, sshd, Apache, php-fpm, GIMP, Samba, uWSGI, VirtualBox
+
+Libraries & APIs: pygame, Flask + Jinja, Amazon MWS, OpenCart, Wordpress, lxml, BeautifulSoup, requests
