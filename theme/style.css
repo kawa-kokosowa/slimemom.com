@@ -24,7 +24,7 @@ body {
 html,
 body {
   color: #333;
-  font: 400 100%/1.625 "pt serif"; /* should work out to 26px line height */
+  font: 400 17px/1.625 "Fauna One";
   text-align: left;
 }
 
@@ -74,14 +74,14 @@ dd {
 
 .site-header h1 {
   /* Page title, only should occur ONCE per page. Big fancy title. */
-  font: 700 423%/4.875rem "pt sans narrow";
+  font: 700 423%/4.875rem "playfair display";
   text-transform: uppercase;
   word-break: break-word;
 }
 
 .site-header h2 {
   /* Subtitle */
-  font: 700 161.8%/1.625rem "pt sans";
+  font: 700 161.8%/1.625rem "playfair display";
   /* i liked this until i put the domain in h2
    * text-transform: capitalize;
    */
@@ -94,7 +94,6 @@ dd {
   display: block;
   height: 0;
   box-sizing: border-box;
-  border-top: 2px solid #fff;
   width: 61.8%;
   margin: 0.8125rem auto;
 }
@@ -113,18 +112,18 @@ li {
 
 section > h1 {
   /* Section title */
-  font: 700 261.7924%/3.25rem "pt sans";
+  font: 700 261.7924%/3.25rem "playfair display";
   margin: 1.625rem 0;
   text-transform: uppercase;
 }
 
 section h2 {
-  font: 700 161.8%/1.625rem "pt sans";
+  font: 700 161.8%/1.625rem "playfair display";
   margin: 2.4375rem 0 0.8125rem 0;
 }
 
 section h3 {
-  font: 700 138.2%/1.625rem "pt sans";
+  font: 700 138.2%/1.625rem "playfair display";
   margin: 1.625rem 0;
 }
 
