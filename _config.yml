@@ -1,0 +1,10 @@
+# Site settings
+title: SlimeMom.Com
+tag_text: Trans slime
+description: Democratic anarchist communist worker cooperative, working to create revenue and resume-enhancing opportunities for experiencers of transmisogyny and some of their allies.
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
