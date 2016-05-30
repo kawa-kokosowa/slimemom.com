@@ -8,7 +8,7 @@ Worker owned and governed cooperative, supplying freelance contracts, benefits, 
 
 Founded by [Lillian Gardenia Seabreeze](http://about.lillian.link/).
 
-For more information about us please refer to the [SlimeMom.Com Handbook](https://docs.google.com/document/d/1zLBIfaKPc39JtRlxYsbidR9bdP5E_Mdhct_TqvjMbhw/edit?usp=sharing).
+For more information about us please refer to the [Slime Mom Handbook](https://docs.google.com/document/d/1zLBIfaKPc39JtRlxYsbidR9bdP5E_Mdhct_TqvjMbhw/edit?usp=sharing).
 
 ### How to join
 
