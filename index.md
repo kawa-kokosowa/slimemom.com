@@ -12,10 +12,9 @@ For more information about us please refer to the [SlimeMom.Com Handbook](https:
 
 ### How to join
 
-To apply for membership contact an existing member of SlimeMom.com to setup an interview (you can try lillian.gardenia.seabreeze@gmail.com or @LilySeabreeze on Twitter). Membership approval requires member consensus.
+To apply for membership contact an existing member of Slime Mom or simply email contact@slimemom.com.
 
 ## Additional Resources
 
   * @slimemom on Twitter
-  * lillian.gardenia.seabreeze+slimemom@gmail.com
-  * [Member blog](http://slimeymom.tumblr.com/)
+  * contact@slimemom.com
